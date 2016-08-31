@@ -23,6 +23,7 @@
     "chai": "^3.5.0",
     "enzyme": "^2.0.0",
     "jsdom": "^8.0.1",
+    "jsdom-global": "^2.1.0",
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7"
   },
